@@ -5,7 +5,7 @@ body {
 }
 
 .custom-navbar {
-  background-color: #0b1a30; /* Màu xanh đen */
+  background-color: #0b1a30;
 }
 
 /* ================= TRANG INDEX: HERO CAROUSEL ================= */
@@ -149,10 +149,9 @@ footer {
 .course-card {
   border-radius: 12px;
   border: 1px solid #e2e8f0;
-  border-left-width: 6px; /* Điểm nhấn viền màu bên trái */
+  border-left-width: 6px; 
 }
 
-/* 4 màu viền thẻ khóa học */
 .border-top-coral {
   border-left-color: #f87171 !important;
 }
